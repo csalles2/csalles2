@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-
+<p> Me chamo Camille Sales, estou granduando em Sistemas da Informação.
+Sou técnica em Informática.
+Sou da área de Desenvolvimento Web.
+</p>
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
@@ -13,9 +16,11 @@
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
-### GitHub Stats
-
-
+### About me
+Criando sites desde de 2024
+Atualmente estou estudando Desenvolvimento Web, Cibersegurança e backend.
+Idiomas em andamento: Inglês e Espanhol
+Metas: Desevolvedor Frotend/Fullstack
 
     
 ### Contact
