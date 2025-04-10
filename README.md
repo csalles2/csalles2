@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-<p> Me chamo Camille Sales <br>
+<p> Me chamo Camille Salles <br>
 Estou granduando em Sistemas da Informação. <br>                                             
 Sou técnica em Informática. <br>
 Sou da área de Desenvolvimento Web.
