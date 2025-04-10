@@ -19,7 +19,7 @@ Sou da área de Desenvolvimento Web.
 </div><br>
 
 ### About me
-<p> 👩🏻‍💻 Criando sites desde de 2024  <br>
+<p> 👩🏻‍💻 Criando sites desde de 2023  <br>
 📚Atualmente estou estudando Desenvolvimento Web, Cibersegurança e Backend. <br>
 ✍🏻Idiomas em andamento: Inglês e Espanhol <br>
 🎯Metas: Desevolvedor Frotend/Fullstack</p>
