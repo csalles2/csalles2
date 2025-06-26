@@ -16,6 +16,10 @@ Sou da área de Desenvolvimento Web.
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://devicon-website.vercel.app/api/react/original.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://devicon-website.vercel.app/api/nodejs/plain.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40"  src="https://devicon-website.vercel.app/api/figma/original.svg">
+   
+  
 </div><br>
 
 ### About me
